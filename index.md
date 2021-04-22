@@ -8,15 +8,15 @@ B.S. in Software Engineering, Ajou University
 
 ### Research Interests
 
-Machine learning
+Machine learning<br/>
 -Data inference, Pattern mining
 
-Neural network
+Neural network<br/>
 -Transformer, Multimodal learning, Generative model
 
-Bioinfomatics
--Drung-target interaction, EHR analytics
+Bioinfomatics<br/>
+-Compound-protein interaction, EHR analytics
 
-MLOps
--cubeflow
+MLOps<br/>
+-Cubeflow
 
