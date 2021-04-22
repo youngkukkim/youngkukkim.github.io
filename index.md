@@ -1,10 +1,11 @@
+
+
+![Octocat](https://github.com/youngkukkim/youngkukkim.github.io/blob/main/images/photo.jpg){: width="25%" height="25%"}
+
+
 ## Contacts
 
 Email: kyk9174844@snu.ac.kr
-
-### Small image
-
-![Octocat](https://github.com/youngkukkim/youngkukkim.github.io/blob/main/images/photo.jpg)
 
 ## Education
 
