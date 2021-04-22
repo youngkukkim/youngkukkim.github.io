@@ -1,6 +1,6 @@
 
 
-![Octocat](https://github.com/youngkukkim/youngkukkim.github.io/blob/main/images/photo.jpg){: width="25%" height="25%"}
+![photo](https://github.com/youngkukkim/youngkukkim.github.io/blob/main/images/photo.jpg){: width="25%" height="25%"}
 
 
 ## Contacts
