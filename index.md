@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+## Youngkuk Kim
 
-You can use the [editor on GitHub](https://github.com/youngkukkim/youngkukkim.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Email: kyk9174844@snu.ac.kr
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Computer Science Engineering, Seoul National University
 
-### Markdown
+### Research Interests
+
+Machine learning
+Neural network
+MLOps
+bioinfomatics
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
