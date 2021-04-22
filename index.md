@@ -1,6 +1,9 @@
-## Youngkuk Kim
+## Contacts
 
 Email: kyk9174844@snu.ac.kr
+
+
+## Education
 
 M.S. and Ph.D. in Computer Science Engineering, Seoul National University
 
