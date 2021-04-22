@@ -3,6 +3,7 @@
 Email: kyk9174844@snu.ac.kr
 
 M.S. and Ph.D. in Computer Science Engineering, Seoul National University
+
 B.S. in Software Engineering, Ajou University
 
 ### Research Interests
