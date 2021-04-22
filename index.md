@@ -1,6 +1,5 @@
 
-
-![title](/images/photo.jpg){: width="100" height="100"}
+<img src="https://github.com/youngkukkim/youngkukkim.github.io/blob/main/images/photo.jpg" width="50%" height="50%">
 
 ## Contacts
 
