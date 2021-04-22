@@ -7,8 +7,11 @@ Computer Science Engineering, Seoul National University
 ### Research Interests
 
 Machine learning
+
 Neural network
+
 MLOps
+
 bioinfomatics
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
