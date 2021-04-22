@@ -4,7 +4,7 @@ Email: kyk9174844@snu.ac.kr
 
 ### Small image
 
-![Octocat](https://https://github.com/youngkukkim/youngkukkim.github.io/images/photo.png)
+![Octocat](https://github.com/youngkukkim/youngkukkim.github.io/blob/main/images/photo.jpg)
 
 ## Education
 
