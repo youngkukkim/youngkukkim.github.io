@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/youngkukkim/youngkukkim.github.io/blob/main/images/photo.jpg" width="25%" height="25%">
+<img src="images/photo.jpg" width="25%" height="25%">
 
 ## Contacts
 
