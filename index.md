@@ -2,7 +2,8 @@
 
 Email: kyk9174844@snu.ac.kr
 
-Computer Science Engineering, Seoul National University
+M.S. and Ph.D. in Computer Science Engineering, Seoul National University
+B.S. in Software Engineering, Ajou University
 
 ### Research Interests
 
@@ -10,9 +11,10 @@ Machine learning
 
 Neural network
 
+Bioinfomatics
+
 MLOps
 
-bioinfomatics
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
