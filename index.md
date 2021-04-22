@@ -24,5 +24,5 @@ Bioinfomatics<br/>
 -Compound-protein interaction, EHR analytics
 
 MLOps<br/>
--Cubeflow
+-Kubeflow
 
