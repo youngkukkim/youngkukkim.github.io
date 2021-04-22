@@ -1,6 +1,6 @@
 
 
-<img src="images/photo.jpg" width="25%" height="25%">
+![title](/images/photo.jpg){: width="100" height="100"}
 
 ## Contacts
 
