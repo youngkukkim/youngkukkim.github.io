@@ -1,5 +1,5 @@
 
-<img src="https://github.com/youngkukkim/youngkukkim.github.io/blob/main/images/photo.jpg?raw=true" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/youngkukkim/youngkukkim.github.io/main/images/photo.jpg" width="50%" height="50%">
 
 ## Contacts
 
